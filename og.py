@@ -9,10 +9,10 @@ import random
 import string
 
 # Replace with your bot token and owner ID
-TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'
-YOUR_OWNER_ID = 5628960731  # Replace with your actual owner ID
+TOKEN = '6770709810:AAEjcbfxPKaG9DgjC0SwmUL3aJx0T6SU8fo'
+YOUR_OWNER_ID = 1383324178  # Replace with your actual owner ID
 
-bot = telebot.TeleBot('7470746259:AAFjiWMkWzClV7W6Grxgf_J-tw4ZOXwdqek')
+bot = telebot.TeleBot('6770709810:AAEjcbfxPKaG9DgjC0SwmUL3aJx0T6SU8fo')
 
 # Paths to data files
 USERS_FILE = 'users.txt'
